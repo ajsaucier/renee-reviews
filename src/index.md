@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome!
-postsHeading: Latest posts
+postsHeading: Latest reviews
 archiveButtonText: See all reviews
 socialImage: ''
 ---
