@@ -1,8 +1,8 @@
 ---
-title: A simple post
+title: Once Upon A Time...In Hollywood
 date: '2019-06-18'
 tags:
-  - demo-content
+  - movies
   - simple-post
   - blog
 ---

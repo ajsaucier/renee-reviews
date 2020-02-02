@@ -6,14 +6,14 @@
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/hankchizljaw/hylia",
-      "external": true
+      "text": "Movie Reviews",
+      "url": "/pages/movie-reviews/",
+      "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/hankchizljaw",
-      "external": true
+      "text": "TV Show Reviews",
+      "url": "/pages/tv-reviews/",
+      "external": false
     }
   ]
 }
