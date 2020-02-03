@@ -1,6 +1,6 @@
 .intro {
   // background: var(--color-theme-highlight-block);
-  @include horizontal-gradient(var(--color-theme-highlight-block), transparent);
+  @include horizontal-gradient(var(--color-theme-highlight-block), white);
 
   &__summary {
     --flow-space: #{get-size(500)};

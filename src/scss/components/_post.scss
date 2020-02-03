@@ -122,7 +122,7 @@
 
   &__footer {
     // background: var(--color-theme-highlight);
-    @include horizontal-gradient(var(--color-theme-highlight-block), transparent);
+    @include horizontal-gradient(var(--color-theme-highlight-block), white);
 
     h2 {
       flex-shrink: 0;
