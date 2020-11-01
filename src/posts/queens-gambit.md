@@ -2,6 +2,10 @@
 layout: layouts/post.njk
 title: Queen's Gambit
 date: 2020-11-01T22:32:07.573Z
+tags:
+  - tv-shows
+  - netflix
+  - drama
 ---
 Loved the series! I was hoping for another season.  Who would have thought the game of chess was so interesting outside of chess club?
 
